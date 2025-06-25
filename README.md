@@ -154,4 +154,4 @@ Predicted : [6, 7, 8, 8, 6, 5]
 ## 📬 Contact
 
 Built with ❤️ by Prachi.  
-For suggestions or issues, please raise an [issue](https://github.com/PrachiCh2611/Final_Project.git).
+For suggestions or issues, please raise an [issue](https://github.com/PrachiCh2611/Final_Project.git) or mail me at prachimzn1999@gmail.com .
